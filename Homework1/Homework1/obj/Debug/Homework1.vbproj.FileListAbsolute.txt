@@ -1,0 +1,11 @@
+c:\users\hobgoblin\documents\visual studio 2015\Projects\Homework1\Homework1\bin\Debug\Homework1.exe.config
+c:\users\hobgoblin\documents\visual studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.vbprojResolveAssemblyReference.cache
+c:\users\hobgoblin\documents\visual studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.Homework1.resources
+c:\users\hobgoblin\documents\visual studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.Resources.resources
+c:\users\hobgoblin\documents\visual studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.vbproj.GenerateResource.Cache
+c:\users\hobgoblin\documents\visual studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.xml
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework1\Homework1\bin\Debug\Homework1.exe
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework1\Homework1\bin\Debug\Homework1.pdb
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework1\Homework1\bin\Debug\Homework1.xml
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.exe
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.pdb
