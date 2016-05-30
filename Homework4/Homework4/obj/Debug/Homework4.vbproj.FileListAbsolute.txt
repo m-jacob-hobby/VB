@@ -1,0 +1,12 @@
+\\tank.ysu.local\mjhobby\documents\visual studio 2013\Projects\Homework4\Homework4\bin\Debug\Homework4.exe.config
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework4\Homework4\bin\Debug\Homework4.exe.config
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework4\Homework4\bin\Debug\Homework4.exe
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework4\Homework4\bin\Debug\Homework4.pdb
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework4\Homework4\bin\Debug\Homework4.xml
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework4\Homework4\obj\Debug\Homework4.vbprojResolveAssemblyReference.cache
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework4\Homework4\obj\Debug\Homework4.CalorieCounter.resources
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework4\Homework4\obj\Debug\Homework4.Resources.resources
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework4\Homework4\obj\Debug\Homework4.vbproj.GenerateResource.Cache
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework4\Homework4\obj\Debug\Homework4.exe
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework4\Homework4\obj\Debug\Homework4.xml
+C:\Users\Hobgoblin\Documents\Visual Studio 2015\Projects\Homework4\Homework4\obj\Debug\Homework4.pdb
